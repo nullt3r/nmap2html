@@ -12,7 +12,7 @@ This program requires Python 3.
 
 ## How it works
 
-The `nmap2html.py` script takes an Nmap XML file as input and generates an HTML report as output. The HTML report contains a summary of the Nmap scan results, including the target hostname and IP address, the date and time of the scan, and the list of open ports and services.
+The `nmap2html.py` script takes an Nmap XML file as input and generates an HTML report as output. The HTML report contains table with the target, found port and service details.
 
 ## License
 

@@ -2,6 +2,8 @@
 
 A Python program that converts Nmap XML files to HTML format.
 
+![Example output](example_report.png)
+
 ## Usage
 ```bash
 python3 nmap2html.py --xml <nmap_input.xml> --html-output <report.html>

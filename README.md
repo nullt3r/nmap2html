@@ -1,6 +1,6 @@
 # nmap2html
 
-A Python program that converts Nmap XML files to HTML format. The script was generated with OpenAI.
+A Python program that converts Nmap XML files to HTML format. The script was generated with OpenAI. It uses some external JS libraries so be warned.
 
 ![Example output](example_report.png)
 
